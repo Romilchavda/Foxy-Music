@@ -51,7 +51,7 @@ module.exports = {
 
     dispatcher.setVolumeLogarithmic(queue.volume / 100); //VOLUME
     embed.setAuthor("Started Playing Song", message.client.user.displayAvatarURL())
-      .setDescription(`**[${song.title}](${song.url})**\n${song.description}`)
+      .setDescription(`**[${song.title}](${song.url})**`)
       .setImage(song.thumbnail)
       .setThumbnail(song.avatar)
       .setFooter(`${song.author} | ${song.duration}m | ${song.date}`)
