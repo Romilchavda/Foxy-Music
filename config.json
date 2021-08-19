@@ -2,6 +2,6 @@
   "PREFIX": "PREFIX", 
   "TOKEN": "YOUR TOKEN", 
   "QUEUE_LIMIT": 0,
-  "COLOR": "BLUE",
-  "inviteURL": "BOT INVITE URL" 
+  "COLOR": "RANDOM",
 }
+
