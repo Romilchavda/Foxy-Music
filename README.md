@@ -1,4 +1,4 @@
->![](https://cdn.discordapp.com/attachments/675669552796925987/827826023822917692/unknown.png)
+>![](https://media.discordapp.net/attachments/872841130738331717/877838255238836254/Screenshot_20210819_142540.jpg)
 
 # Discord-Music-Bot
 ## 🦊 Foxy-Music
