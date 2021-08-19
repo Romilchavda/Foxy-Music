@@ -6,9 +6,9 @@ module.exports = {
   execute (client, message, args)  {
   
   let embed = new MessageEmbed()
-  .setTitle("Invite Me Or Die")
+  .setTitle("Invite " + client.user.username)
   .setColor("RED")
-  .setDescription(`[CLICK ME](${inviteURL}) OR **DIE**`); //Looks Cool
+  .setDescription(`[Click to invite](https://discord.com/oauth2/authorize?client_id=${message.client.user.id}&permissions=70282305&scope=bot)`); //Looks Cool
     
     
     return message.channel.send(embed)
