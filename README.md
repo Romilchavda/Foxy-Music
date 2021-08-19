@@ -3,7 +3,7 @@
 # Discord-Music-Bot
 
 
-(UPDATED : 13/12/20)
-`(UPDATE  : 3/4/21) : Updated the packages and fixed some bugs, NO API required now.`
+# [Support Server](https://discord.gg/B4qDFWCw6k)
 
-JOIN THE SERVER : https://withwin.in/dbd
+
+
