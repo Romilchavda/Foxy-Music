@@ -5,21 +5,21 @@
 
 # Config
 ```
+
+
+   
+
+
+
+  
+
+ 
+
+
+
+
 {
-
-  "PREFIX": "PREFIX", 
-
-  "TOKEN": "YOUR TOKEN", 
-
-  "QUEUE_LIMIT": 0,
-
-  "COLOR": "RANDOM"
-
-}
-
-{
-
-  "PREFIX": "PREFIX", 
+": "PREFIX", 
 
   "TOKEN": "YOUR TOKEN", 
 
