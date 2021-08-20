@@ -2,7 +2,7 @@
 
 # Discord-Music-Bot
 
-**🦊 Foxy-Music**
+- **🦊 Foxy-Music**
 
 # Config
 
@@ -24,7 +24,7 @@
 
 # [Support Server](https://discord.gg/B4qDFWCw6k)
 
-### join discord Server [support Server](https://discord.gg/B4qDFWCw6k)
+- join discord Server [support Server](https://discord.gg/B4qDFWCw6k)
 
 ## Run Project
 
