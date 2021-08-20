@@ -1,7 +1,7 @@
 ![](https://media.discordapp.net/attachments/872841130738331717/878144956043239464/20210820_104406_0000.png)
 
 # Discord-Music-Bot
-**🦊 Foxy-Music
+**🦊 Foxy-Music**
 
 # Config
 
