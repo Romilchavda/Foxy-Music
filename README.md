@@ -10,7 +10,7 @@
 
 {
 
-"PREFIX": "PREFIX", 
+  "PREFIX": "PREFIX", 
 
   "TOKEN": "YOUR TOKEN", 
 
